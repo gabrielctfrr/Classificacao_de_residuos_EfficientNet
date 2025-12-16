@@ -1,5 +1,9 @@
 # Classificação de Resíduos com EfficientNet (PyTorch)
 
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+
 ## 📌 Visão Geral
 
 Este projeto tem como objetivo o desenvolvimento de um modelo de **Deep Learning para classificação de resíduos sólidos** a partir de imagens, utilizando **EfficientNet-B0** e **PyTorch**.
@@ -144,3 +148,4 @@ Projeto desenvolvido por **Gabriel** como parte de estudos em **Visão Computaci
 ## 📄 Licença
 
 Este projeto é apenas para fins educacionais.
+
