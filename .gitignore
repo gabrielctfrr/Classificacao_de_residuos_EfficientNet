@@ -8,10 +8,7 @@ venv/
 .ipynb_checkpoints/
 .idea/
 *.iml
-data/
-*.zip
-*.tar
-*.tar.gz
+data/*
 !data/**/.gitkeep
 *.pth
 *.pt
