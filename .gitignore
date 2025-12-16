@@ -12,6 +12,7 @@ data/
 *.zip
 *.tar
 *.tar.gz
+!data/**/.gitkeep
 *.pth
 *.pt
 checkpoints/
